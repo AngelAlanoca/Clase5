@@ -1,0 +1,33 @@
+*
+{
+    font-family: impact;
+    margin: 30px;
+}
+body
+{
+    background-color: aqua;
+}
+h1
+{
+    padding: 15px;
+    border: 10px;
+    border-style: dotted;
+    color: blue;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+p
+{
+    color: cornflowerblue ; 
+    text-align: justify;
+    border-radius: 20px;
+    border-style: solid;
+    padding: 10px;
+    border-color: black;
+    background-color: coral;
+}
+img
+{
+    width: 37%;
+}
